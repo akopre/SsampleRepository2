@@ -1,3 +1,3 @@
-# SsampleRepository2
+# SampleRepository2
 
-Adding the contents fromm master
+Adding the contents from master
